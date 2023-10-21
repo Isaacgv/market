@@ -1,12 +1,12 @@
 <script setup lang="ts">
-
+    import ShopProductList from './ShopProductList.vue';
 </script>
 
 <template>
     <div>
-        <h1>Header</h1>
+        <ShopProductList />
     </div>
-  
+
 </template>
 
 <style lang="scss" scoped>
