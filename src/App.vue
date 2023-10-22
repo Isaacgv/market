@@ -7,8 +7,10 @@
 
 <template>
   <div class="app-container">
+
     <TheHeader class="header"/>
-     <!-- <Shop class="shop b2" />
+    <Shop class="shop" />
+     <!-- 
     <Cart class="cart b3"/>
     -->
     <TheFooter class="footer"/> 
